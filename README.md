@@ -1,7 +1,5 @@
 <html>
   <head>
-    <title>
-      este é o título
-    </title>
+    <title>este é o título</title>
   </head>
 </html>
